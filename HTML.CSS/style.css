@@ -1,0 +1,47 @@
+body {
+    background-image: url(17027498.jpg);
+}
+.box {
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+    padding: 10px;
+    text-align: center;   
+}
+
+.column {
+  width: 33,33%;
+  margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 30px;
+    margin-left:90px;
+  padding: 5px;
+  display: inline;
+}
+
+.column img {
+    border-radius: 8px;
+    border: 3px;
+    border-style: inset;
+    border-color: cornflowerblue;
+    border-width: 5px;
+}
+
+#text {
+color: blue;
+text-align: center;
+margin-top: 40px;
+margin-right: 80px;
+margin-bottom: 40px;
+margin-left: 80px;
+padding: 10px;
+font-size: x-large;
+font-family: monospace;
+background-color: gold;
+border-radius: 8px;
+border-style: inset;
+border-color: cornflowerblue;
+border-width: 5px;
+}
+
